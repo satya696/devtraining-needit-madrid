@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="stagging table" max_length="40" name="x_58872_needit_stagging_table" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BRANCH" label="BRANCH" max_length="40" name="u_branch" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=B.Tech CGPA 3-1" label="B.Tech CGPA 3-1" max_length="40" name="u_b_tech_cgpa_3_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DOB" label="DOB" max_length="40" name="u_dob" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FULL_NAME" label="FULL_NAME" max_length="44" name="u_full_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=GENDER" label="GENDER" max_length="40" name="u_gender" type="string"/>
+        <element attributes="import_attribute_name=INTER_PER" label="INTER_PER" max_length="15" name="u_inter_per" type="decimal"/>
+        <element attributes="import_attribute_name=ROLL_NO" label="ROLL_NO" max_length="40" name="u_roll_no" type="float"/>
+        <element attributes="import_attribute_name=Serial No" label="Serial No" max_length="40" name="u_serial_no" type="integer"/>
+        <element attributes="import_attribute_name=SSC_CGPA" label="SSC_CGPA" max_length="15" name="u_ssc_cgpa" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=STUDENT_EMAIL" label="STUDENT_EMAIL" max_length="40" name="u_student_email" type="string"/>
+        <element attributes="import_attribute_name=STUDENT_MOBILE" label="STUDENT_MOBILE" max_length="40" name="u_student_mobile" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Venue" label="Venue" max_length="40" name="u_venue" type="string"/>
+    </element>
+</database>

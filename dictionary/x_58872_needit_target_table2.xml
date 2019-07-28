@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="target table2" max_length="40" name="x_58872_needit_target_table2" type="collection">
+        <element label="Branch" max_length="40" name="branch" type="string"/>
+        <element label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
+        <element label="Id no" max_length="40" name="id_no" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
